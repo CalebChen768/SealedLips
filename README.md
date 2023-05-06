@@ -1,2 +1,2 @@
-# SealedLips
-A end-to-end encrypted IM app that provides ultimate secrecy
+# ChatWare
+This a repository for an online chat project
